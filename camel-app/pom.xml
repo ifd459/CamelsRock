@@ -12,5 +12,12 @@
 			<artifactId>camel-core</artifactId>
 			<version>3.6.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-camel -->
+	<dependency>
+    <groupId>org.apache.camel</groupId>
+    <artifactId>camel-activemq</artifactId>
+    <version>3.0.0</version>
+</dependency>
+
 	</dependencies>
 </project>
